@@ -1,4 +1,4 @@
-#This is a NEXTjs project
+# This is a NEXTjs project
 
 ## How to run
 1. Clone this repo
